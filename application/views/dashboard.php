@@ -48,8 +48,8 @@
       <thead>
 
         <tr>
-          <th>ID usuario</th>
-          <th>Nome</th>
+          <th>ID</th>
+          <th>Name</th>
           <th>Email</th>
           <th>Telefone</th>
           <th>Alterar</th>
